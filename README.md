@@ -92,7 +92,9 @@ The machine learning model used in this project is saved in `app.sav`. The model
 
 
 
-- Thanks to the dataset providers and the open-source community for their valuable resources.
+## Streamlit app demo: 
+![image](https://github.com/user-attachments/assets/d7f9533d-cb86-4fe4-8791-01555c389163)
+
 
 ## Contact
 
